@@ -1,0 +1,12 @@
+.root{
+	-fx-background-image: url("EndScreen.png");
+}
+
+.label{
+	-fx-text-fill: white;
+	-fx-font-size: 26pt;
+}
+
+#InfoBox{
+	-fx-font-size: 20pt;
+}

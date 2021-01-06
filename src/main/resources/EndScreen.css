@@ -1,0 +1,21 @@
+.root{
+	-fx-background-image: url("EndScreen.png");
+}
+
+#scoreBoxLabel{
+	/* -fx-font: 24pt Copperplate; */
+	-fx-font-size: 24pt;
+}
+
+#inputBoxText{
+	-fx-font-size: 24pt;
+}
+
+#inputBox{
+	-fx-font-size: 17pt;
+}
+
+#overLabel{
+	-fx-text-fill: red;
+	-fx-font-size: 36pt;
+}

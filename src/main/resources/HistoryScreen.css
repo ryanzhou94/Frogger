@@ -1,0 +1,12 @@
+.root{
+	-fx-background-image: url("EndScreen.png");
+}
+
+#scoreTable{
+	-fx-font-size: 14pt;
+}
+
+.label{
+	-fx-font-size: 24pt;
+	-fx-text-fill: red;
+}

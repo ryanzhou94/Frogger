@@ -1,0 +1,10 @@
+.root{
+	-fx-background-image: url("StartScreen.png");
+	
+}
+
+.label{
+	/* -fx-background-color: black; */
+	-fx-text-fill: white;
+	-fx-font-size: 26pt;
+}

@@ -1,0 +1,7 @@
+.root{
+	-fx-background-image: url("PlayScreen.png");
+}
+
+.label{
+	-fx-font-size: 15pt;
+}
